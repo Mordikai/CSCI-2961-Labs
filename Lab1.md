@@ -5,6 +5,7 @@
 4. 
     * If you don't know the answer, but are aware of a member of the community who would know, attempt to bring the question to their attention.
     * If the question concerns a new issue that many people are asking about, consider stickying the answer or adding it to a pertinent wiki
+
 5.
 6.  <br />![6](http://i.imgur.com/t5D6JMG.png?1)
 7.  <br />![7](http://i.imgur.com/zEqKvyX.png?1)
