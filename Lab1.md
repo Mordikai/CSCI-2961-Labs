@@ -1,5 +1,5 @@
 ##Lab 1
-1.  
+1.  <br />
    ![1](http://i.imgur.com/UuuYpkO.png?1)
 2.  
 3. 
