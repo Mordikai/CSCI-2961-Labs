@@ -22,4 +22,6 @@
 8.  Okay, I'll do that.
 9.  I'd still like to use the project I outlined last time, though I will keep myself open to other ideas as the semester 
     progresses. As my above statements might indicate, I am partial to the Apache lisence, though the GPL license is also
-    an option. I don't know who my partners would be. Whom so ever might be interested, I suppose.
+    an option. The option of software stack is somewhat hazy, since I'm not entirely certain of my project's qualities yet.
+    Assuming I go with the current idea, any of the Python stacks (LAMP, WAMP, MAMP) would be likely candidates, since that
+    would be the primary composition of the project. I don't know who my partners would be. Whom so ever might be interested,     I suppose.
