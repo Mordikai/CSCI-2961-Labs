@@ -1,5 +1,5 @@
-##Lab 2
-#9/11/15
+#Lab 2
+###9/11/15
 1.  I have read the 4 criteria for Free Software
 2.  Licensing your software gives several benefits for yourself and for the users, by making clear what each party is 
     allowed to do. Should you want to profit from the distribution of your software, a license can give you solid legal
