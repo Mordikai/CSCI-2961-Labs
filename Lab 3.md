@@ -3,4 +3,4 @@
 
 Link to the repository: https://github.com/Mordikai/Lab3-Repo
 
-![](http://imgur.com/vufPF8F)
+![](http://i.imgur.com/vufPF8F.jpg?2)
